@@ -36,9 +36,10 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "danielgirbessardana@gmail.com.com"
+  email: "danielgirbessardana@gmail.com"
   github: danigirbes
-  linkedin: daniel-girbes-sardaña
+  linkedin: daniel-girbes-sardaña-931078188
+# linkedin public URL: www.linkedin.com/in/daniel-girbes-sardaña-931078188
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
